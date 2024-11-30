@@ -1,0 +1,4 @@
+@mixin flexlar($flex,$centre){
+   display: $flex;
+   align-items: $centre;
+}
